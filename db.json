@@ -32,7 +32,13 @@
     }
   ],
   "countries": [
-    { "id": 1, "country_iso": "IN", "country_name": "India", "units": "Gms" },
+    {
+      "id": 1,
+      "image_url": "https://restcountries.eu/data/ind.svg",
+      "country_iso": "IN",
+      "country_name": "India",
+      "units": "Gms"
+    },
     {
       "id": 2,
       "country_iso": "US",
