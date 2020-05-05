@@ -138,52 +138,6 @@
       "name": "Odisha"
     }
   ],
-  "cities": [
-    {
-      "id": 1,
-      "country": "India",
-      "state": "Telangana",
-      "name": "Hyderabad"
-    },
-    {
-      "id": 2,
-      "country": "India",
-      "state": "Telangana",
-      "name": "Nirmal"
-    },
-    {
-      "id": 3,
-      "country": "India",
-      "state": "Telangana",
-      "name": "Nagulapalli"
-    },
-    {
-      "id": 4,
-      "country": "India",
-      "state": "Telangana",
-      "name": "Nizamabad"
-    },
-    {
-      "id": 5,
-      "country": "India",
-      "state": "Telangana",
-      "name": "Secunderabad"
-    }
-  ],
-  "territory": [
-    {
-      "id": 1,
-      "country": "India",
-      "name": "Banjara Hills",
-      "city": "Hyderabad"
-    },
-    {
-      "id": 2,
-      "country": "India",
-      "name": "Hyderabad",
-      "city": "Hyderabad"
-    }
-  ],
   "profile": {
     "name": "typicode"
   }
