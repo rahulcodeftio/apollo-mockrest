@@ -90,28 +90,6 @@
     }
   ],
 
-  "states": [
-    {
-      "id": 1,
-      "country": "India",
-      "name": "Telangana"
-    },
-    {
-      "id": 2,
-      "country": "India",
-      "name": "Andhra Pradesh"
-    },
-    {
-      "id": 3,
-      "country": "India",
-      "name": "Delhi"
-    },
-    {
-      "id": 4,
-      "country": "India",
-      "name": "Haryana"
-    }
-  ],
   "profile": {
     "name": "typicode"
   }
