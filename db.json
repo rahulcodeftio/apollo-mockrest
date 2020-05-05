@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "sku": [
+    { "id": 1, "country": "US", "sku_code": "0000001", "product_name": "DK Vanilla Fudge", "weight": 500, "price" : 199, "image_url" : "" },
+    { "id": 2, "country": "US", "sku_code": "0000002", "product_name": "DK Chocolate Fudge", "weight": 500, "price" : 149, "image_url" : "" },
+    { "id": 3, "country": "US", "sku_code": "0000003", "product_name": "DK Almond Fudge", "weight": 500, "price" : 299, "image_url" : "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
