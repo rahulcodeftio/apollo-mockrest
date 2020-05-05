@@ -1,13 +1,45 @@
 {
   "sku": [
-    { "id": 1, "country": "US", "sku_code": "0000001", "product_name": "DK Vanilla Fudge", "weight": 500, "price" : 199, "image_url" : "" },
-    { "id": 2, "country": "US", "sku_code": "0000002", "product_name": "DK Chocolate Fudge", "weight": 500, "price" : 149, "image_url" : "" },
-    { "id": 3, "country": "US", "sku_code": "0000003", "product_name": "DK Almond Fudge", "weight": 500, "price" : 299, "image_url" : "" }
+    {
+      "id": 1,
+      "country": "US",
+      "machine": "Machine 3,iBot Machine",
+      "sku_code": "0000001",
+      "product_name": "DK Vanilla Fudge",
+      "weight": 500,
+      "price": 199,
+      "image_url": ""
+    },
+    {
+      "id": 2,
+      "country": "US",
+      "machine": "iBot Machine",
+      "sku_code": "0000002",
+      "product_name": "DK Chocolate Fudge",
+      "weight": 500,
+      "price": 149,
+      "image_url": ""
+    },
+    {
+      "id": 3,
+      "country": "US",
+      "machine": "Machine 9,iBot Machine",
+      "sku_code": "0000003",
+      "product_name": "DK Almond Fudge",
+      "weight": 500,
+      "price": 299,
+      "image_url": ""
+    }
   ],
   "countries": [
-    { "id": 1, "country_iso": "IN", "country_name": "India" },
-    { "id": 2, "country_iso": "US", "country_name": "United States of America" },
-    { "id": 3, "country_iso": "IT", "country_name": "Italy " }
+    { "id": 1, "country_iso": "IN", "country_name": "India", "units": "Gms" },
+    {
+      "id": 2,
+      "country_iso": "US",
+      "country_name": "United States of America",
+      "units": "Oz"
+    },
+    { "id": 3, "country_iso": "IT", "country_name": "Italy", "units": "Gms" }
   ],
   "profile": {
     "name": "typicode"
