@@ -34,18 +34,67 @@
   "countries": [
     {
       "id": 1,
-      "image_url": "https://restcountries.eu/data/ind.svg",
+      "image_url": "",
       "country_iso": "IN",
       "country_name": "India",
       "units": "Gms"
     },
     {
       "id": 2,
+      "image_url": "",
       "country_iso": "US",
       "country_name": "United States of America",
       "units": "Oz"
     },
-    { "id": 3, "country_iso": "IT", "country_name": "Italy", "units": "Gms" }
+    {
+      "id": 3,
+      "image_url": "",
+      "country_iso": "IT",
+      "country_name": "Italy",
+      "units": "Gms"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "country": "India",
+      "name": "Business Admin Role: Business Administrator",
+      "username": "inida_business_user",
+      "email": "india_business_user@ibot.com",
+      "phone": "909090990"
+    },
+    {
+      "id": 2,
+      "country": "India",
+      "name": "Country Manager Role: Country Administrator",
+      "username": "india_country",
+      "email": "india_country@ibot.com",
+      "phone": "9090909090"
+    },
+    {
+      "id": 3,
+      "country": "India",
+      "name": "Pavan PV Role:  Service Agent",
+      "username": "pavan@codeft.io",
+      "email": "pavan@codeft.io",
+      "phone": "09029323232"
+    },
+    {
+      "id": 4,
+      "country": "India",
+      "name": "Rahul V Role: Super Administrator",
+      "username": "rahul@codeft.io",
+      "email": "rahul@codeft.io",
+      "phone": "+9223232323"
+    },
+    {
+      "id": 5,
+      "country": "India",
+      "name": "Replenishment Agent Role: Replenishment Agent",
+      "username": "replenishment_india",
+      "email": "replenishment_agent_india@ibot.com",
+      "phone": "9090909090"
+    }
   ],
   "profile": {
     "name": "typicode"
