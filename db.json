@@ -76,13 +76,6 @@
       "name": "Rahul V Role: Super Administrator",
       "username": "rahul@codeft.io",
       "email": "rahul@codeft.io"
-    },
-    {
-      "id": 5,
-      "country": "India",
-      "name": "Replenishment Agent Role: Replenishment Agent",
-      "username": "replenishment_india",
-      "email": "replenishment_agent_india@ibot.com"
     }
   ],
   "regions": [
@@ -120,11 +113,6 @@
       "id": 4,
       "country": "India",
       "name": "Haryana"
-    },
-    {
-      "id": 5,
-      "country": "India",
-      "name": "Odisha"
     }
   ],
   "profile": {
