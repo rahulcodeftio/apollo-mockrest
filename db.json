@@ -4,9 +4,10 @@
     { "id": 2, "country": "US", "sku_code": "0000002", "product_name": "DK Chocolate Fudge", "weight": 500, "price" : 149, "image_url" : "" },
     { "id": 3, "country": "US", "sku_code": "0000003", "product_name": "DK Almond Fudge", "weight": 500, "price" : 299, "image_url" : "" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "countries": [
+    { "id": 1, "country_iso": "IN", "country_name": "India" },
+    { "id": 2, "country_iso": "US", "country_name": "United States of America" },
+    { "id": 3, "country_iso": "IT", "country_name": "Italy " }
   ],
   "profile": {
     "name": "typicode"
