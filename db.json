@@ -7,8 +7,7 @@
       "sku_code": "0000001",
       "product_name": "DK Vanilla Fudge",
       "weight": 500,
-      "price": 199,
-      "image_url": ""
+      "price": 199
     },
     {
       "id": 2,
@@ -17,8 +16,7 @@
       "sku_code": "0000002",
       "product_name": "DK Chocolate Fudge",
       "weight": 500,
-      "price": 149,
-      "image_url": ""
+      "price": 149
     },
     {
       "id": 3,
@@ -27,8 +25,7 @@
       "sku_code": "0000003",
       "product_name": "DK Almond Fudge",
       "weight": 500,
-      "price": 299,
-      "image_url": ""
+      "price": 299
     }
   ],
   "countries": [
@@ -60,40 +57,35 @@
       "country": "India",
       "name": "Business Admin Role: Business Administrator",
       "username": "inida_business_user",
-      "email": "india_business_user@ibot.com",
-      "phone": "909090990"
+      "email": "india_business_user@ibot.com"
     },
     {
       "id": 2,
       "country": "India",
       "name": "Country Manager Role: Country Administrator",
       "username": "india_country",
-      "email": "india_country@ibot.com",
-      "phone": "9090909090"
+      "email": "india_country@ibot.com"
     },
     {
       "id": 3,
       "country": "India",
       "name": "Pavan PV Role:  Service Agent",
       "username": "pavan@codeft.io",
-      "email": "pavan@codeft.io",
-      "phone": "09029323232"
+      "email": "pavan@codeft.io"
     },
     {
       "id": 4,
       "country": "India",
       "name": "Rahul V Role: Super Administrator",
       "username": "rahul@codeft.io",
-      "email": "rahul@codeft.io",
-      "phone": "+9223232323"
+      "email": "rahul@codeft.io"
     },
     {
       "id": 5,
       "country": "India",
       "name": "Replenishment Agent Role: Replenishment Agent",
       "username": "replenishment_india",
-      "email": "replenishment_agent_india@ibot.com",
-      "phone": "9090909090"
+      "email": "replenishment_agent_india@ibot.com"
     }
   ],
   "regions": [
