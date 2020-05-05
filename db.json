@@ -5,24 +5,21 @@
       "country": "US",
       "machine": "Machine 3,iBot Machine",
       "sku_code": "0000001",
-      "product_name": "DK Vanilla Fudge",
-      "weight": 500
+      "product_name": "DK Vanilla Fudge"
     },
     {
       "id": 2,
       "country": "US",
       "machine": "iBot Machine",
       "sku_code": "0000002",
-      "product_name": "DK Chocolate Fudge",
-      "weight": 500
+      "product_name": "DK Chocolate Fudge"
     },
     {
       "id": 3,
       "country": "US",
       "machine": "Machine 9,iBot Machine",
       "sku_code": "0000003",
-      "product_name": "DK Almond Fudge",
-      "weight": 500
+      "product_name": "DK Almond Fudge"
     }
   ],
   "countries": [
